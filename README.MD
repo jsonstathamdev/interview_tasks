@@ -1,3 +1,3 @@
 This is initial 
 
-this project is changes remotely
+this project is changes remotely - be attentive!!! 
